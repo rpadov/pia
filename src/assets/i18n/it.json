@@ -197,10 +197,10 @@
 			"placeholder_new_pia": "Nuova PIA",
 			"placeholder_new_structure": "Nuovo modello",
 			"placeholder_pia_name": "Nome della PIA",
-			"placeholder_sector_name": "TO BE TRANSLATED - Intitulé du Secteur associé",
+			"placeholder_sector_name": "Titolo del settore associato",
 			"placeholder_start": "Tutti i campi sono obbligatori",
 			"placeholder_structure": "Modello di base",
-			"placeholder_structure_name": "TO BE TRANSLATED - Intitulé du modèle",
+			"placeholder_structure_name": "Titolo del modello",
 			"placeholder_validation": "Cognome, nome",
 			"sector_name": "Settore collegato",
 			"start": "Avvio",
@@ -215,17 +215,17 @@
 			"author": "Autore",
 			"card": "Tabella",
 			"card_rocket_content": "Inizia! Per impostare <br>una PIA, clicca sul +",
-			"card_rocket_content_structure": "TO BE TRANSLATED - Lancez-vous !<br><br>Pour commencer<br>un modèle, cliquez<br> sur le +",
+			"card_rocket_content_structure": "Vai !<br><br>Prima le cose importanti<br>un modello, clicca qui<br> sur le +",
 			"date": "Data",
 			"import_pia": "Importa PIA",
-			"import_structure": "TO BE TRANSLATED - Importer modèle",
+			"import_structure": "Modello di importazione",
 			"list": "Lista",
 			"list_rocket_content": "Inizia! Per impostare <br>una PIA, clicca sul +",
-			"list_rocket_content_structure": "TO BE TRANSLATED - Lancez-vous ! Pour commencer<br>un modèle, cliquez sur le +",
+			"list_rocket_content_structure": "Vai! Per avviare<br>un modello, clicca sul +",
 			"name": "Nome",
 			"new_pia": "Nuova PIA",
-			"new_structure": "TO BE TRANSLATED - Nouveau modèle",
-			"sector_name": "TO BE TRANSLATED - Secteur associé",
+			"new_structure": "Nuovo modello",
+			"sector_name": "Settore associato",
 			"sort": "Ordina",
 			"sort_by": "per",
 			"status": "Stato",
@@ -238,10 +238,10 @@
 			"column_evaluation": "Revisore",
 			"column_pia": "PIA",
 			"column_progression": "Avanzamento",
-			"column_sector_name": "TO BE TRANSLATED - Secteur associé",
+			"column_sector_name": "Settore associato",
 			"column_status": "Stato",
-			"column_structure": "TO BE TRANSLATED - Modèle",
-			"column_structure_name": "TO BE TRANSLATED - Modèle",
+			"column_structure": "Modello",
+			"column_structure_name": "Modello",
 			"column_updated_at": "Cronologia",
 			"column_validation": "Validatore",
 			"item": {
@@ -870,10 +870,10 @@
 			"review_section": "Valuta una sezione"
 		},
 		"import_wrong_pia_file": {
-			"content": "TO BE TRANSLATED - Le fichier importé ne correspond pas à un fichier de type PIA"
+			"content": "Il file importato non corrisponde ad un tipo di file PIA."
 		},
 		"import_wrong_structure_file": {
-			"content": "TO BE TRANSLATED - Le fichier importé ne correspond pas à un fichier de type Modèle"
+			"content": "Il file importato non corrisponde ad un file di tipo Modello"
 		},
 		"modal_select_text_pia": {
 			"content": "I contenuti della PIA sono stati copiati negli appunti."
@@ -900,13 +900,13 @@
 			"remove": "Cancella questa PIA"
 		},
 		"remove_question": {
-			"content": "TO BE TRANSLATED - Souhaitez-vous supprimer la question ?",
-			"keep": "TO BE TRANSLATED - Annuler",
-			"remove": "TO BE TRANSLATED - Supprimer"
+			"content": "Volete cancellare la domanda?",
+			"keep": "Annulla",
+			"remove": "Cancellare"
 		},
 		"remove_structure": {
-			"content": "TO BE TRANSLATED - <span class='strong'>Attention,</span><br>Êtes-vous sûr de vouloir<br>supprimer ce modèle ?",
-			"remove": "TO BE TRANSLATED - Supprimer ce modèle"
+			"content": "<span class='strong'>Attenzione,</span><br>Sei sicuro di voler<br>cancellare questo modello ?",
+			"remove": "Cancellare questo modello"
 		},
 		"same_comment": {
 			"content": "<span class='strong'>Attenzione,</span><br>Inserire un commento diverso dall'ultimo inserito."
@@ -920,7 +920,7 @@
 		},
 		"start_evaluation": "Inizia valutazione",
 		"update_server_url_nok": {
-			"content": "TO BE TRANSLATED - Connection impossible."
+			"content": "Connessione impossibile."
 		},
 		"update_server_url_ok": {
 			"content": "L'indirizzo del server è stato aggiornato."
@@ -972,7 +972,7 @@
 		"footer": {
 			"ask_evaluation": "Richiedi una revisione",
 			"mandatory_fields": "Tutti i campi sono obbligatori",
-			"structure_add_question": "TO BE TRANSLATED - Ajouter une question",
+			"structure_add_question": "Aggiungi una domanda",
 			"subsection_validated": "Sezione rivista, in attesa di validazione finale",
 			"validate_evaluation": "Valida revisione"
 		},
@@ -983,7 +983,7 @@
 			"preview": "Anteprima"
 		},
 		"sections": {
-			"based_on_structure_name": "TO BE TRANSLATED - Basé sur le modèle :",
+			"based_on_structure_name": "Basato sul modello :",
 			"homepage_link": "Torna al pannello di controllo",
 			"refuse_pia": "Rifiuta PIA",
 			"status": {
